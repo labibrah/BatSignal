@@ -3,7 +3,7 @@
 #include "Adafruit_MQTT_Client.h"
 
 #define WIFI_SSID ""//Name of wifi network
-#define WIFI_PASS "12345678"//Password of wifi netword
+#define WIFI_PASS ""//Password of wifi network
 
 #define MQTT_SERV "io.adafruit.com"
 #define MQTT_PORT 1883
