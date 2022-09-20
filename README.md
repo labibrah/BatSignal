@@ -24,11 +24,11 @@ This is a smart lamp which can be activated using the IFTTT smartphone app. Trig
 ##  3D printed enclosure
 The enclosure is 3D printed and the .f3d file for it is also uploaded.
 
-![Front_view](assets/Front.jpg)
-![Side_view](assets/Side.jpg)
+![Front_view](assets/Front.png)
+![Side_view](assets/Side.png)
 
 ## Circuit connections 
 
 Circuit connection is quite straightforward as illustrated in diagram below.
 
-![Front_view](assets/Circuit.jpg)
+![Front_view](assets/Circuit.png)
