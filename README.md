@@ -31,4 +31,10 @@ The enclosure is 3D printed and the .f3d file for it is also uploaded.
 
 Circuit connection is quite straightforward as illustrated in diagram below.
 
+- Connect NodeMCU Ground (GND) pin to -ve pin of Relay.
+- Connect NodeMCU Supply (3v3) pin to +ve pin of Relay.
+- Connect NodeMCU Digital pin (D4) to Input pin of Relay.
+- Connect one end of the wire from positve termninal of LED to NO port of relay.
+- Connect a wire from COM of relay to 12V adapter.
+
 ![Front_view](assets/Circuit.png)
