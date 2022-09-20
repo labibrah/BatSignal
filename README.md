@@ -20,3 +20,15 @@ This is a smart lamp which can be activated using the IFTTT smartphone app. Trig
 4. Converter - Connects wires from LED to the 12V adapter.
 5. 12V LED - Lights up when relay is in closed circuit configuration.
 6. Micro-USB cable - Powers the NodeMCU ESP8266.
+
+##  3D printed enclosure
+The enclosure is 3D printed and the .f3d file for it is also uploaded.
+
+![Front_view](assets/Front.jpg)
+![Side_view](assets/Side.jpg)
+
+## Circuit connections 
+
+Circuit connection is quite straightforward as illustrated in diagram below.
+
+![Front_view](assets/Circuit.jpg)
